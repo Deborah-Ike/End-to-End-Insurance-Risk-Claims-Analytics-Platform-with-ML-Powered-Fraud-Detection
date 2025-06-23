@@ -1,14 +1,14 @@
 # Machine Learning for Insurance Fraud Detection 
 
 ## 1. Business Context
-**Problem:**
-Insurance fraud remains a costly issue, with an estimated \$40+ billion lost annually in the United States alone (FBI). Traditional manual claim review processes are resource-intensive and slow, often leading to both undetected fraudulent claims and unnecessary scrutiny of legitimate ones.
+Problem:
+Insurance fraud is a significant challenge in South Africa’s financial services sector. The South African Insurance Association (SAIA) estimates that fraudulent and dishonest claims cost the industry billions of rand each year. Manual review processes remain common, placing heavy pressure on claims teams and making it difficult to detect fraud quickly and consistently.
 
-**Impact:**
+Impact:
 
-* Financial losses due to undetected fraud
-* Increased policy premiums for honest customers
-* Operational inefficiencies and strain on investigation teams
+* Substantial financial losses due to undetected or late-detected fraud
+* Increased premiums for law-abiding policyholders
+* Strained resources and backlogs in claims departments
 
 ## 2. Business Question
 Can fraudulent insurance claims be accurately identified using machine learning to reduce financial losses and improve the efficiency of claims investigation?
